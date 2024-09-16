@@ -1,0 +1,5 @@
+https://github.com/3rdigen/genieacs.git{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
